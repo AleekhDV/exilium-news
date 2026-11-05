@@ -1,0 +1,18 @@
+{
+  "title": "Exilium I",
+  "subtitle": "Novedades oficiales",
+  "news": [
+    {
+      "date": "04/11/2026",
+      "title": "¡Bienvenido a Exilium I!",
+      "description": "El mundo de Exilium I ya está disponible. Explora, sobrevive y descubre todo lo que tenemos preparado.",
+      "tag": "Un servidor de la prese 67"
+    },
+    {
+      "date": "04/11/2026",
+      "title": "Sistema de novedades",
+      "description": "Este panel mostrará noticias, actualizaciones y eventos del servidor directamente dentro de Minecraft.",
+      "tag": "INFO"
+    }
+  ]
+}
