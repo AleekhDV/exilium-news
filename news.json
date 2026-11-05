@@ -4,15 +4,15 @@
   "news": [
     {
       "date": "04/11/2026",
-      "title": "¡Bienvenido a Exilium I!",
+      "title": "Vacas Deslechadas",
       "description": "-Las vacas ya no dan leche",
       "tag": "DIA 1"
     },
     {
       "date": "04/11/2026",
-      "title": "DIA 2",
+      "title": "Creepers Cargados",
       "description": "Ahora los CREEPERS son TODOS electricos",
-      "tag": "INFO"
+      "tag": "DIA 2"
     }
   ]
 }
