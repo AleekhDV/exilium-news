@@ -1,6 +1,6 @@
 {
   "title": "Exilium I",
-  "subtitle": "Novedades oficiales",
+  "subtitle": "Novedades",
   "news": [
     {
       "date": "04/11/2026",
@@ -10,8 +10,8 @@
     },
     {
       "date": "04/11/2026",
-      "title": "Sistema de novedades",
-      "description": "Este panel mostrará noticias, actualizaciones y eventos del servidor directamente dentro de Minecraft.",
+      "title": "DIA 2",
+      "description": "Ahora los CREEPERS son TODOS electricos",
       "tag": "INFO"
     }
   ]
