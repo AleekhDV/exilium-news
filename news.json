@@ -4,21 +4,9 @@
   "news": [
     {
       "date": "04/11/2026",
-      "title": "Vacas Deslechadas",
-      "description": "Las vacas ya no dan leche",
-      "tag": "DIA 1"
-    },
-    {
-      "date": "04/11/2026",
-      "title": "Creepers Cargados",
-      "description": "Ahora los CREEPERS son TODOS electricos",
-      "tag": "DIA 2"
-    },
-    {
-      "date": "05/11/2026",
-      "title": "Supernovas",
-      "description": "Ahora pueden aparecer supernovas en los momentos reevil",
-      "tag": "DIA 3"
+      "title": "Bienvenida",
+      "description": "Bienvenidos a EXILIUM",
+      "tag": "EXILIUM"
     }
   ]
 }
